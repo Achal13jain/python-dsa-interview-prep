@@ -31,7 +31,7 @@ follow the [Core 120 roadmap](./ROADMAP.md) for the planned learning sequence.
 
 ## ✅ Core 120 Progress
 
-**Core 120 progress:** 104 / 120 problems (87%)
+**Core 120 progress:** 108 / 120 problems (90%)
 
 The original 98-problem collection is complete. The repository is now adding
 22 carefully selected questions to strengthen thin and missing interview patterns.

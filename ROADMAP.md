@@ -4,7 +4,7 @@ The goal is to grow deliberately from the original 98 questions to a balanced
 set of 120 high-value interview problems. New entries should add a missing
 pattern or strengthen a thin topic rather than duplicate an existing exercise.
 
-**Current progress: 104 / 120 problems**
+**Current progress: 108 / 120 problems**
 
 ## Additional Basics
 
