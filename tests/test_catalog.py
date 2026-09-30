@@ -58,8 +58,18 @@ class CatalogTests(unittest.TestCase):
         self.assertIsNotNone(roadmap_match)
         self.assertEqual(readme_match.groups(), roadmap_match.groups())
         completed, target = map(int, readme_match.groups())
-        self.assertEqual(completed, len(catalog_paths()))
+        self.assertEqual(120, completed)
+        self.assertGreaterEqual(len(catalog_paths()), completed)
         self.assertEqual(120, target)
+
+        problem_badge = re.search(r"Problems-(\d+)-success", readme)
+        self.assertIsNotNone(problem_badge)
+        self.assertEqual(len(catalog_paths()), int(problem_badge.group(1)))
+
+    def test_core_roadmap_is_complete(self) -> None:
+        roadmap = (ROOT / "ROADMAP.md").read_text(encoding="utf-8")
+
+        self.assertNotIn("- [ ]", roadmap)
 
     def test_website_does_not_link_to_raw_repository_documents(self) -> None:
         html = (ROOT / "index.html").read_text(encoding="utf-8")
