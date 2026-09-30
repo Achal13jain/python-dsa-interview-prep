@@ -4,7 +4,7 @@ The goal is to grow deliberately from the original 98 questions to a balanced
 set of 120 high-value interview problems. New entries should add a missing
 pattern or strengthen a thin topic rather than duplicate an existing exercise.
 
-**Current progress: 108 / 120 problems**
+**Current progress: 120 / 120 problems** (complete, plus 1 bonus problem)
 
 ## Additional Basics
 
@@ -20,29 +20,29 @@ pattern or strengthen a thin topic rather than duplicate an existing exercise.
 
 ## Batch 2 — Window, Stack, and Queue
 
-- [ ] Fruit Into Baskets
-- [ ] Subarray Product Less Than K
-- [ ] Daily Temperatures
-- [ ] Evaluate Reverse Polish Notation
-- [ ] Implement Queue Using Stacks
+- [x] Fruit Into Baskets
+- [x] Subarray Product Less Than K
+- [x] Daily Temperatures
+- [x] Evaluate Reverse Polish Notation
+- [x] Implement Queue Using Stacks
 
 ## Batch 3 — Linked Lists and Trees
 
-- [ ] Reorder List
-- [ ] Copy List with Random Pointer
-- [ ] LRU Cache
-- [ ] Validate Binary Search Tree
-- [ ] Kth Smallest Element in a BST
-- [ ] Binary Tree Right Side View
-- [ ] Construct Binary Tree from Traversals
+- [x] Reorder List
+- [x] Copy List with Random Pointer
+- [x] LRU Cache
+- [x] Validate Binary Search Tree
+- [x] Kth Smallest Element in a BST
+- [x] Binary Tree Right Side View
+- [x] Construct Binary Tree from Traversals
 
 ## Batch 4 — Search, DP, and Graphs
 
-- [ ] Search a 2D Matrix
-- [ ] Koko Eating Bananas
-- [ ] Word Break
-- [ ] Pacific Atlantic Water Flow
-- [ ] Minimum Spanning Tree
+- [x] Search a 2D Matrix
+- [x] Koko Eating Bananas
+- [x] Word Break
+- [x] Pacific Atlantic Water Flow
+- [x] Minimum Spanning Tree
 
 ## Definition of done
 
